@@ -6,3 +6,8 @@ to execute any shell script :
         2.change the permisions and set it to be executable 
         3.run the shell script using the command """./filename.sh"""
             
+
+Note: for participants of docker lecture
+
+
+git clone https://github.com/aeronixil/linux_setup_scripts.git
